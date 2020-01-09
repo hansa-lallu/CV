@@ -92,7 +92,7 @@ A highly intensive 16-week software engineering bootcamp, focusing on:
 - Hiking
 - Travelling 
 - Baking 
-Any cool stuff that makes you a super part of a software development team
+
 
 ## Status
 - New Zealand Citizen

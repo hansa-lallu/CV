@@ -89,7 +89,7 @@ A highly intensive 16-week software engineering bootcamp, focusing on:
 
 ## Hobbies
 
-- Hiking
+- Hiking. Favourite spots include Yosemite, Norway, Grand Canyon, New Zealand 
 - Travelling 
 - Baking 
 

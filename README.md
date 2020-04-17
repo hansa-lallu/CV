@@ -1,6 +1,8 @@
-## Hansa Lallu
+<center> <h1>Hansa Lallu</h1> </center>
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+
+*** 
 
 ## Skills
 
@@ -21,14 +23,34 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
+## Projects
+***
 
+For a complete list, see my GitHub repositories.
+
+| GitHub Repo | Description | Technologies | Time Frame |
+| :---------: | --------- | :---------: | --------- |
+| [WePick] | Makers Final Project. Teamed up with five individuals to overcome a common decision making problem - What movie to watch? Two users start a session and individually likes and dislikes movies. Once there is a match they are alerted and shown where they can watch that movie. | Backend: Rails, Ruby, PostgreSQL. Frontend: HTML, CSS, Bootstrap. API integration for movie and streaming details: TMDB and Utelly. Testing: RSpec and Capybara. Continuous integration and code quality: Travis and Code Climate. Hosted live on Heroku here. | 10 days |
+| [Acebook-Undefined] | Working in a team of 6 to create a social media platform. As a team, we learnt a lot about collaborating with git, as well as delegation between us, regular stand-ups, and working with XP values and agile practices. | Ruby on Rails, RSpec, Capybara, Bootstrap, PostgreSQL, Devise, Heroku | 10 Days|
+| [Chitter-Challenge] | A test driven, lightweight twitter clone. This was a project that made me realise how far I had come in terms of object orientated programming and test driven development. | Ruby, Sinatra, RSpec, Capybara, PostgreSQL, AWS, Spectre | 2 days |
+| [Bank-Tech-Test] | A tech test that allows users to create a bank account, deposit and withdraw funds and print a bank statement. This was a test that made me realise how far I had come in terms of object orientated programming and test driven development. | Built with Ruby and tested with RSpec | 3 days
+
+
+## Education
+***
 #### Makers Academy (December 2019 - April 2020)
 A highly intensive 16-week software engineering bootcamp, focusing on:
-- OOP, TDD, MVC, DDD
+
+- Object-oriented design
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Test driven development
+- Pair programming
+- Languages:Ruby, JavaScript (and jQuery), HTML/CSS
+- Web Frameworks: Sinatra, Ruby on Rails, Node, Express
+- Databases: PostgreSQL
+- Testing Suites: RSpec, Capybara, Jasmine
+- CI/CD: Travis CI, CodeClimate, Heroku
+
 
 #### University of Otago, New Zealand (March 2016 - December 2017)
 
@@ -39,7 +61,8 @@ A highly intensive 16-week software engineering bootcamp, focusing on:
 - Bachelor of Health Science (Physiotherapy)
 - Research Project: Rectus abdominis diastasis during pregnancy and the postpartum period
 
-## Experience
+## Work Experience
+***
 
 **Bupa** (March 2019 - August 2019)    
 *Locum Physiotherapist*  
@@ -88,12 +111,12 @@ A highly intensive 16-week software engineering bootcamp, focusing on:
 - Sportsfield sideline Trauma Management and strapping Course 
 
 ## Hobbies
-
-- Hiking. Favourite spots include Yosemite, Norway, Grand Canyon, New Zealand 
-- Travelling 
-- Baking 
-
+***
+- Hiking. Love getting outdoors and appreciating nature. Favourite hikes include Yosemite, Norway, Grand Canyon, New Zealand 
+- Travelling and experiencing different culture
+- Baking. After moving to the UK, one favouirte is a sticky toffee pudding. 
 
 ## Status
+***
 - New Zealand Citizen
 - United Kingdom Tier 2 Visa (Valid until December 2022) 

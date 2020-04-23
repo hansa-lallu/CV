@@ -47,7 +47,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## **Education**
 
-#### Makers Academy (December 2019 - April 2020)
+#### Makers Academy, London, UK (December 2019 - April 2020)
 A highly intensive 16-week software engineering bootcamp, focusing on:
 
 - Object-oriented design
@@ -77,9 +77,8 @@ A highly intensive 16-week software engineering bootcamp, focusing on:
 **September 2019 - December 2019**
 - Travel to New Zealand for Visa renewal.
 - Travelling (Hong Kong).
-- Relocating to London.
 
-**Bupa Hospital & Healthcare** (March 2019 - August 2019)
+**Bupa Hospital & Healthcare, London, UK** (March 2019 - August 2019)
 *Senior Physiotherapist (Locum)*
 - Private Practice 
   - Musculoskeletal assessment, diagnosis, and treatment in a Multidisciplinary environment.
@@ -88,7 +87,7 @@ A highly intensive 16-week software engineering bootcamp, focusing on:
 **September 2018 - March 2019** 
 - Travelling (Turkey, Europe, New Zealand, United States of America). 
 
-**Vita Health Group** (December 2017 - September 2018)   
+**Vita Health Group, London, UK** (December 2017 - September 2018)   
 *Physiotherapist*  
 - Private Practice
   - Independently worked in a satellite clinic – managing supplies, organising the clinic
@@ -100,7 +99,7 @@ A highly intensive 16-week software engineering bootcamp, focusing on:
 - Travelling (United States of America, Mexico & Europe) whilst completing Post Graduate Diploma.
 - Relocating to London. 
 
-**Advanced Rehab** (January 2014 - May 2017)   
+**Advanced Rehab, Auckland, NZ** (January 2014 - May 2017)   
 *Physiotherapist*  
 - Private Practice
    - Musculoskeletal assessment, diagnosis, and treatment in a clinical setting.
@@ -109,25 +108,25 @@ A highly intensive 16-week software engineering bootcamp, focusing on:
    - Liaising with insurance bodies and government health officials.
    - Mentor for new graduates.
 
-**Greenlane Hospital** (September - October 2013)   
+**Greenlane Hospital, Auckland, NZ** (September - October 2013)   
 *Student Physiotherapist*
 - Outpatient Cardiorespiratory.
   - Respiratory assessments, diagnosis, and treatment.
   - Cardiac and pulmonary rehabilitation classes including post heart and lung transplant.
 
-**Auckland City Hospital** (July - August 2013)   
+**Auckland City Hospital, Auckland, NZ** (July - August 2013)   
 *Student Physiotherapist*
 - Acute Neurosurgery + High Dependency Unit.
   - Acute neurological and respiratory assessment and treatment.
   
-**Active Physio** (May - June 2013)   
+**Active Physio, Auckland, NZ** (May - June 2013)   
 *Student Physiotherapist*  
 - Private Practice
   - Musculoskeletal assessments, diagnosis, and treatment.
   - Pre and post surgical rehab.
   - Pink Pilates (exercise programme for women diagnosed with cancer).
 
-**Rehab Plus** (March - May 2013)   
+**Rehab Plus, Auckland, NZ** (March - May 2013)   
 *Student Physiotherapist*  
 - Neurological assessments and rehabilitation.
 

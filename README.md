@@ -1,18 +1,14 @@
 <div align="center"> 
 
-# Hansa Lallu 
-
-
+# **Hansa Lallu** 
 [Projects](##projects) | [Skills](##skills) | [Education](##education) | [Work-Experience](##Work-Experience) | [Hobbies](##Hobbies) | <a href="https://www.linkedin.com/in/hansa-lallu">LinkedIn</a>
-
 </div>
 
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
 
 Tech Skills: Test Driven Development, Pair-Programming, Agile, XP Values, Git Workflow
 
-## Projects
+## **Projects**
 
 
 For a complete list, see my [GitHub repositories](https://github.com/hansa-lallu?tab=repositories).
@@ -30,7 +26,8 @@ For a complete list, see my [GitHub repositories](https://github.com/hansa-lallu
 | GitHub Repo | Description | Technologies | Time Frame |
 | :---------: | --------- | :---------: | --------- |
 | [WePick-2.0][8] | Continued to work with the original WePick Team to replicate and improve final project using a different tech stack. | Backend: Node/Express Frontend: JavaScript, React. API integration for movie and streaming details: TMDB and Utelly. Testing: Jest, Enzyme. Continuous integration: CircleCI. Hosted on Netlify  | Ongoing |
-## Skills
+## **Skills**
+
 
 
 #### This Skill
@@ -48,7 +45,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
+## **Education**
 
 #### Makers Academy (December 2019 - April 2020)
 A highly intensive 16-week software engineering bootcamp, focusing on:
@@ -73,11 +70,9 @@ A highly intensive 16-week software engineering bootcamp, focusing on:
 - Bachelor of Health Science (Physiotherapy)
 - Research Project: Rectus abdominis diastasis during pregnancy and the postpartum period
 
-## Work Experience
+## **Work Experience**
 
-
-**December 2019 - April 2020**
-- Makers Academy.
+**Makers Academy, London, UK** (December 2019 - April 2020)
 
 **September 2019 - December 2019**
 - Travel to New Zealand for Visa renewal.
@@ -140,11 +135,12 @@ A highly intensive 16-week software engineering bootcamp, focusing on:
 - Dry Needling Foundation Course.
 - Sportsfield Sideline Trauma Management and Strapping Course. 
 
-## Hobbies
+## **Hobbies**
 
 - **Hiking:** I love getting outdoors and appreciating nature. Some all time favourite hikes include the Mist Trail combined with the John Muir Trail in Yosemite (USA), Kjeragbolten Trial in Norway, South Rim of the Grand Canyon (USA), and several trails in New Zealand. 
 - **Travelling:** I have been fortunate enough to have travelled over 40 countries and counting. I love experiencing and learning about different cultures.
 - **Baking:** favourite dish to make since moving to the UK is a sticky toffee pudding. 
+- **Meditation:** A new interest during my time at Makers Academy. 
 
 [1]: https://github.com/jasylwong/wepick
 [2]: https://wepick.herokuapp.com/users/sign_in

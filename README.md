@@ -5,7 +5,6 @@
 </div>
 
 
-
 Tech Skills: Test Driven Development, Pair-Programming, Agile, XP Values, Git Workflow
 
 ## **Projects**
@@ -74,9 +73,8 @@ A highly intensive 16-week software engineering bootcamp, focusing on:
 
 **Makers Academy, London, UK** (December 2019 - April 2020)
 
-**September 2019 - December 2019**
-- Travel to New Zealand for Visa renewal.
-- Travelling (Hong Kong).
+**Travel** (September 2019 - December 2019)
+- New Zealand for Visa renewal & Hong Kong.
 
 **Bupa Hospital & Healthcare, London, UK** (March 2019 - August 2019)
 *Senior Physiotherapist (Locum)*
@@ -84,8 +82,8 @@ A highly intensive 16-week software engineering bootcamp, focusing on:
   - Musculoskeletal assessment, diagnosis, and treatment in a Multidisciplinary environment.
   - Liaising with specialists.
 
-**September 2018 - March 2019** 
-- Travelling (Turkey, Europe, New Zealand, United States of America). 
+**Travel** (September 2018 - March 2019)
+- Turkey, Europe, New Zealand, & United States of America. 
 
 **Vita Health Group, London, UK** (December 2017 - September 2018)   
 *Physiotherapist*  
@@ -95,8 +93,9 @@ A highly intensive 16-week software engineering bootcamp, focusing on:
   - Liaising with doctors, specialists and insurance companies.
   - Musculoskeletal assessment, diagnosis, and treatment in a clinical environment.
 
-**June 2017 - November 2017** 
-- Travelling (United States of America, Mexico & Europe) whilst completing Post Graduate Diploma.
+**Travel** (June 2017 - November 2017)
+- United States of America, Mexico & Europe.
+- Completing Post Graduate Diploma.
 - Relocating to London. 
 
 **Advanced Rehab, Auckland, NZ** (January 2014 - May 2017)   

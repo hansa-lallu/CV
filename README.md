@@ -5,7 +5,7 @@
 [Projects](##projects) | [Skills](##skills) | [Education](##education) | [Work-Experience](##Work-Experience) | [Hobbies](##Hobbies) | <a href="https://www.linkedin.com/in/hansa-lallu">LinkedIn</a>
 </div>
 
-After six years as a Physiotherapist I decided it was time to take on a new challenge and pursue a career in the tech industry. Solving problems and the creative opportunities in doing so is what drove me to the tech world - there are only so many ways you can do an exercise. 
+After six years as a successful Physiotherapist I decided it was time to take on a new challenge and pursue a career in the tech industry. Solving problems and the creative opportunities in doing so is what drove me to the tech world - there are only so many ways you can do an exercise. 
 
 As a recent graduate from Makers, I am currently looking for a career in London as a **full-stack developer** with an ambitious company that embraces professional development. 
 
@@ -18,7 +18,7 @@ For a complete list, see my [GitHub repositories](https://github.com/hansa-lallu
 
 | GitHub Repo | Description | Technologies | Time Frame |
 | :---------: | --------- | :---------: | --------- |
-| [WePick][1] | Makers Final Project. Teamed up with five individuals to overcome a common decision making problem - What movie to watch? Two users start a session and individually like and dislike movies. Once there is a match they are alerted and shown where they can watch the matched movie. | Backend: Rails, Ruby, PostgreSQL. Frontend: HTML, CSS, Bootstrap. API integration for movie and streaming details: TMDB and Utelly. Testing: RSpec and Capybara. Continuous integration and code quality: Travis and Code Climate. Hosted live on Heroku [here](https://wepick.herokuapp.com/users/sign_in). | 10 days |
+| [WePick][1] | Makers Final Project. Teamed up with 5 individuals to overcome a common decision making problem - What movie to watch? Two users start a session and individually like and dislike movies. Once there is a match they are alerted and shown where they can watch the matched movie. | Backend: Rails, Ruby, PostgreSQL. Frontend: HTML, CSS, Bootstrap. API integration for movie and streaming details: TMDB and Utelly. Testing: RSpec and Capybara. Continuous integration and code quality: Travis and Code Climate. Hosted live on Heroku [here](https://wepick.herokuapp.com/users/sign_in). | 10 days |
 | [Bank-Tech-Test][6] | A tech test that allows users to create a bank account, deposit and withdraw funds and print a bank statement. This was a test that made me realise how far I had come in terms of object orientated programming and test driven development. | Built with Ruby and tested with RSpec | 3 days |
 | [Chitter-Challenge][5] | A test driven, lightweight twitter clone. This was a project that made me realise how far I had come in terms of object orientated programming and test driven development. | Ruby, Sinatra, RSpec, Capybara, PostgreSQL, HTML, CSS| 2 days |
 | [Acebook-Undefined][3] | Working in a team of 6 to create a social media platform. As a team, we learnt a lot about collaborating with git, delegation of work, regular stand-ups, and working with XP values and agile practices. | Ruby on Rails, PostgreSQL, Devise, RSpec, Capybara, Bootstrap, HTML, CSS, Live on [Heroku](https://undefined-acebook.herokuapp.com/users/sign_in) | 10 Days|
@@ -37,7 +37,7 @@ Whilst working as a physiotherapist I am constantly challenged with problems. Th
 
 **Fast Learner and Adaptable**
 
-Striving to become a software developer, I have been challenged to learn new languages and frameworks in just a few weeks. For example, without any prior knowledge to Javascript, I was able to create a single page [thermostat][9] app in just a few days.
+Striving to become a software developer, I have been challenged to learn new languages and frameworks in just a few weeks. For example, without any prior knowledge to Javascript, I was able to create a single page web app of a [thermostat][9] in just a few days.
 
 I have always been flexible and ready to take on new challenges. For example, A recent physiotherapy role required working independently in a remote clinic. Not only did this require me to adapt to the patient management software quickly, but I also had to learn how to micromanage the clinic in terms of ordering supplies, liaising with numerous insurance bodies and adhere to company wide marketing strategies including gaining 5 star Google reviews. This also required excellent communication and interpersonal skills to work efficiently individually and within a team. 
 

@@ -5,7 +5,7 @@
 [Projects](##projects) | [Skills](##skills) | [Education](##education) | [Work-Experience](##Work-Experience) | [Hobbies](##Hobbies) | <a href="https://www.linkedin.com/in/hansa-lallu">LinkedIn</a>
 </div>
 
-After six years as a Physiotherapist I decided it was time to take on a new challenge and pursue a career in the tech industry. Solving problems and the creative opportunities in doing so is what drove me to tech world - There are only so many ways you can do an exercise. 
+After six years as a Physiotherapist I decided it was time to take on a new challenge and pursue a career in the tech industry. Solving problems and the creative opportunities in doing so is what drove me to the tech world - there are only so many ways you can do an exercise. 
 
 As a recent graduate from Makers, I am currently looking for a career in London as a **full-stack developer** with an ambitious company that embraces professional development. 
 

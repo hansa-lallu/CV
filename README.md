@@ -2,7 +2,7 @@
 
 # **Hansa Lallu** 
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Work-Experience](#Work-Experience) | [Hobbies](#Hobbies) | <a href="https://www.linkedin.com/in/hansa-lallu">LinkedIn</a>
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Work-Experience](#work-Experience) | [Hobbies](#hobbies) | <a href="https://www.linkedin.com/in/hansa-lallu">LinkedIn</a>
 </div>
 
 After six years as a Physiotherapist, I decided it was time to take on a new challenge and pursue a career in the tech industry. The freedom in the ability to solve problems was what drove me to code - there are only so many ways you can prescribe an exercise. 
@@ -135,7 +135,7 @@ A highly intensive 16-week software engineering bootcamp, focusing on:
 - **Hiking:** I love getting outdoors and appreciating nature. Some all time favourite hikes include the Mist Trail combined with the John Muir Trail in Yosemite (USA), Kjeragbolten Trial in Norway, South Rim of the Grand Canyon (USA), and several trails in New Zealand. 
 - **Travelling:** I have been fortunate enough to have travelled over 40 countries and counting. I love experiencing and learning about different cultures.
 - **Baking:** A favourite dish to make since moving to the UK is a sticky toffee pudding. 
-- **Meditation:** A new interest that I pursued during my time at Makers Academy. 
+- **Meditation:** A new interest I pursued during my time at Makers Academy. 
 
 [1]: https://github.com/jasylwong/wepick
 [2]: https://wepick.herokuapp.com/users/sign_in

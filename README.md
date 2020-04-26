@@ -1,11 +1,15 @@
 <div align="center"> 
 
 # **Hansa Lallu** 
+
 [Projects](##projects) | [Skills](##skills) | [Education](##education) | [Work-Experience](##Work-Experience) | [Hobbies](##Hobbies) | <a href="https://www.linkedin.com/in/hansa-lallu">LinkedIn</a>
 </div>
 
+After six years as a Physiotherapist I decided it was time to take on a new challenge and pursue a career in the tech industry. Solving problems and the creative opportunities in doing so is what drove me to tech world - There are only so many ways you can do an exercise. 
 
-Tech Skills: Test Driven Development, Pair-Programming, Agile, XP Values, Git Workflow
+As a recent graduate from Makers, I am currently looking for a career in London as a **full-stack developer** with an ambitious company that embraces professional development. 
+
+Tech Skills: Test Driven Development, Object Orientate Programming, Pair-Programming, Agile, XP Values, Git Workflow, Team Work
 
 ## **Projects**
 
@@ -15,49 +19,43 @@ For a complete list, see my [GitHub repositories](https://github.com/hansa-lallu
 | GitHub Repo | Description | Technologies | Time Frame |
 | :---------: | --------- | :---------: | --------- |
 | [WePick][1] | Makers Final Project. Teamed up with five individuals to overcome a common decision making problem - What movie to watch? Two users start a session and individually like and dislike movies. Once there is a match they are alerted and shown where they can watch the matched movie. | Backend: Rails, Ruby, PostgreSQL. Frontend: HTML, CSS, Bootstrap. API integration for movie and streaming details: TMDB and Utelly. Testing: RSpec and Capybara. Continuous integration and code quality: Travis and Code Climate. Hosted live on Heroku [here](https://wepick.herokuapp.com/users/sign_in). | 10 days |
-| [Acebook-Undefined][3] | Working in a team of 6 to create a social media platform. As a team, we learnt a lot about collaborating with git, delegation of work, regular stand-ups, and working with XP values and agile practices. | Ruby on Rails, PostgreSQL, Devise, RSpec, Capybara, Bootstrap, HTML, CSS, Live on [Heroku](https://undefined-acebook.herokuapp.com/users/sign_in) | 10 Days|
+| [Bank-Tech-Test][6] | A tech test that allows users to create a bank account, deposit and withdraw funds and print a bank statement. This was a test that made me realise how far I had come in terms of object orientated programming and test driven development. | Built with Ruby and tested with RSpec | 3 days |
 | [Chitter-Challenge][5] | A test driven, lightweight twitter clone. This was a project that made me realise how far I had come in terms of object orientated programming and test driven development. | Ruby, Sinatra, RSpec, Capybara, PostgreSQL, HTML, CSS| 2 days |
-| [Bank-Tech-Test][6] | A tech test that allows users to create a bank account, deposit and withdraw funds and print a bank statement. This was a test that made me realise how far I had come in terms of object orientated programming and test driven development. | Built with Ruby and tested with RSpec | 3 days
-| [Fireworks-AirBnB][7] | First group project to create an Airbnb clone in a team of 4. | Ruby, Sinatra, PostgreSQL, RSpec, HTML, CSS| 5 days
+| [Acebook-Undefined][3] | Working in a team of 6 to create a social media platform. As a team, we learnt a lot about collaborating with git, delegation of work, regular stand-ups, and working with XP values and agile practices. | Ruby on Rails, PostgreSQL, Devise, RSpec, Capybara, Bootstrap, HTML, CSS, Live on [Heroku](https://undefined-acebook.herokuapp.com/users/sign_in) | 10 Days|
+| [Fireworks-AirBnB][7] | First group project to create an Airbnb clone in a team of 4. | Ruby, Sinatra, PostgreSQL, RSpec, HTML, CSS| 5 days |
 
 
 ## Side Project
 | GitHub Repo | Description | Technologies | Time Frame |
 | :---------: | --------- | :---------: | --------- |
-| [WePick-2.0][8] | Continued to work with the original WePick Team to replicate and improve final project using a different tech stack. | Backend: Node/Express Frontend: JavaScript, React. API integration for movie and streaming details: TMDB and Utelly. Testing: Jest, Enzyme. Continuous integration: CircleCI. Hosted on Netlify  | Ongoing |
+| [WePick-2.0][8] | Currently in planning/set up stages. Continued to work with the original WePick Team to replicate and improve final project using a different tech stack.  | Backend: Node/Express Frontend: JavaScript, React. API integration for movie and streaming details: TMDB and Utelly. Testing: Jest, Enzyme. Continuous integration and Deployment on Netlify  | Ongoing |
 ## **Skills**
 
+**Problem Solver**
 
+Whilst working as a physiotherapist I am constantly challenged with problems. This was one aspect I enjoyed most about physiotherapy. Solving problems, big or small is something I thrive on. Since becoming a developer, I have found the approach to tackle problems or bugs is quite similar in how to diagnose a condition. For example, with complex conditions I would break down the main issue into smaller problems. This allowed for clear visibility and ability to prioritise problems in the same way it would whilst programming.
 
-#### This Skill
+**Fast Learner and Adaptable**
 
-- Experience
-- Achievements
-- Evidence
+Striving to become a software developer, I have been challenged to learn new languages and frameworks in just a few weeks. For example, without any prior knowledge to Javascript, I was able to create a single page [thermostat][9] app in just a few days.
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+I have always been flexible and ready to take on new challenges. For example, A recent physiotherapy role required working independently in a remote clinic. Not only did this require me to adapt to the patient management software quickly, but I also had to learn how to micromanage the clinic in terms of ordering supplies, liaising with numerous insurance bodies and adhere to company wide marketing strategies including gaining 5 star Google reviews. This also required excellent communication and interpersonal skills to work efficiently individually and within a team. 
 
 ## **Education**
 
-#### Makers Academy, London, UK (December 2019 - April 2020)
+#### Makers, London, UK (December 2019 - April 2020)
 A highly intensive 16-week software engineering bootcamp, focusing on:
 
 - Object-oriented design
 - Agile/XP values 
 - Test driven development
 - Pair programming
-- Languages:Ruby, JavaScript (and jQuery), HTML/CSS
+- Languages: Ruby, JavaScript, jQuery, HTM/CSS
 - Web Frameworks: Sinatra, Ruby on Rails, Node, Express
-- Databases: PostgreSQL
-- Testing Suites: RSpec, Capybara, Jasmine
+- Databases: PostgreSQL, ActiveRecord
+- Testing Suites: RSpec, Capybara, Jasmine, Jest
 - CI/CD: Travis CI, CodeClimate, Heroku
+- APIs
 
 
 #### University of Otago, New Zealand (March 2016 - December 2017)
@@ -71,7 +69,7 @@ A highly intensive 16-week software engineering bootcamp, focusing on:
 
 ## **Work Experience**
 
-**Makers Academy, London, UK** (December 2019 - April 2020)
+**Makers, London, UK** (December 2019 - April 2020)
 
 **Travel** (September 2019 - December 2019)
 - New Zealand for Visa renewal & Hong Kong.
@@ -95,8 +93,8 @@ A highly intensive 16-week software engineering bootcamp, focusing on:
 
 **Travel** (June 2017 - November 2017)
 - United States of America, Mexico & Europe.
-- Completing Post Graduate Diploma.
-- Relocating to London. 
+- Whilst Travelling completed a Post Graduate Diploma in Sports & Exercise Medicine.
+- Relocated to London. 
 
 **Advanced Rehab, Auckland, NZ** (January 2014 - May 2017)   
 *Physiotherapist*  
@@ -147,3 +145,4 @@ A highly intensive 16-week software engineering bootcamp, focusing on:
 [6]: https://github.com/hansa-lallu/bank-tech-test
 [7]: https://github.com/DavidStewartLDN/fireworksBnB
 [8]: https://github.com/jlblumberg/wepick-2
+[9]: https://github.com/hansa-lallu/thermostat-js

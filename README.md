@@ -11,7 +11,7 @@ As a recent graduate from Makers, I am currently looking for a career in London 
 
 Tech Skills: Test Driven Development, Object Orientated Programming, Pair-Programming, Agile, XP Values, Git Workflow, Team Work
 
-## **Projects**
+# Projects
 
 | GitHub Repo | Description | Technologies | Time Frame |
 | :---------: | --------- | :---------: | --------- |
@@ -29,7 +29,7 @@ Tech Skills: Test Driven Development, Object Orientated Programming, Pair-Progra
 
 For a complete list, see my [GitHub repositories](https://github.com/hansa-lallu?tab=repositories).
 
-## **Skills**
+# Skills
 
 **Problem Solver**
 
@@ -41,7 +41,7 @@ Striving to become a software developer, I have been challenged to learn new lan
 
 I have always been flexible and ready to take on new challenges. For example, A recent physiotherapy role required working independently in a remote clinic. Not only did this require me to adapt to the patient management software quickly, but I also had to learn how to micromanage the clinic in terms of ordering supplies, liaising with numerous insurance bodies and adhere to company-wide marketing strategies including gaining 5 star Google reviews. This also required excellent communication and interpersonal skills to work efficiently individually and within a team.
 
-## **Education**
+# Education
 
 #### Makers, London, UK (December 2019 - April 2020)
 A highly intensive 16-week software engineering bootcamp, focusing on:
@@ -130,7 +130,7 @@ A highly intensive 16-week software engineering bootcamp, focusing on:
 - Dry Needling Foundation Course.
 - Sportsfield Sideline Trauma Management and Strapping Course. 
 
-## **Hobbies**
+# Hobbies
 
 - **Hiking:** I love getting outdoors and appreciating nature. Some all time favourite hikes include the Mist Trail combined with the John Muir Trail in Yosemite (USA), Kjeragbolten Trial in Norway, South Rim of the Grand Canyon (USA), and several trails in New Zealand. 
 - **Travelling:** I have been fortunate enough to have travelled over 40 countries and counting. I love experiencing and learning about different cultures.

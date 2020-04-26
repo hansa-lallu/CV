@@ -79,7 +79,7 @@ A highly intensive 16-week software engineering bootcamp, focusing on:
   - Musculoskeletal assessment, diagnosis, and treatment in a Multidisciplinary environment.
   - Liaising with specialists.
 
-**Travel** (September 2018 - March 2019)
+**Travel** (September 2018 - February 2019)
 - Turkey, Europe, New Zealand, & United States of America. 
 
 **Vita Health Group, London, UK** (December 2017 - September 2018)   

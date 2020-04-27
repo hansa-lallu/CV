@@ -19,7 +19,7 @@ Tech Skills: Test Driven Development, Object Orientated Programming, Pair-Progra
 | [Bank-Tech-Test][6] | A tech test that allows users to create a bank account, make deposits and withdraw funds and print a bank statement. This was a test that made me realise how far I had come in terms of Object Orientated programming and Test Driven Development. | Built with Ruby and tested with RSpec | 3 days |
 | [Chitter-Challenge][5] | A test driven, lightweight twitter clone built from the ground up. | Ruby, Sinatra, RSpec, Capybara, PostgreSQL, HTML, CSS| 2 days |
 | [Acebook-Undefined][3] | Working in a team of 6 to create a social media platform. As a team, we learnt a lot about collaborating with git, delegation of work, regular stand-ups, and working with XP values and agile practices. | Ruby on Rails, PostgreSQL, Devise, RSpec, Capybara, Bootstrap, HTML, CSS. Live on [Heroku](https://undefined-acebook.herokuapp.com/users/sign_in) | 10 Days|
-| [Fireworks-AirBnB][7] | First group project to create an AirBnB clone in a team of 4. | Ruby, Sinatra, PostgreSQL, RSpec, HTML, CSS| 5 days |
+| [Fireworks-AirBnB][7] | First group project to create an AirBnB clone in a team of 4. | Ruby, Sinatra, PostgreSQL, RSpec, Cabybara, HTML, CSS| 5 days |
 
 
 ### Side Projects

@@ -13,6 +13,8 @@ Tech Skills: Test Driven Development, Object Orientated Programming, Pair-Progra
 
 ## Projects
 
+For a complete list, see my [GitHub repositories](https://github.com/hansa-lallu?tab=repositories).
+
 | GitHub Repo | Description | Technologies | Time Frame |
 | :---------: | --------- | :---------: | --------- |
 | [WePick][1] | Makers Final Project. Teamed up with 5 individuals to overcome a common decision making problem - What movie to watch? Two users start a session and individually like and dislike movies. Once there is a match they are alerted and shown where they can watch the matched movie. | Backend: Ruby on Rails, Ruby and PostgreSQL. Frontend: HTML, CSS, Bootstrap. API integration for movie and streaming details: TMDB and Utelly. Testing: RSpec and Capybara. Continuous Integration and Code Quality: Travis CI and Code Climate. Hosted live on Heroku [here](https://wepick.herokuapp.com/users/sign_in). | 10 days |
@@ -26,8 +28,6 @@ Tech Skills: Test Driven Development, Object Orientated Programming, Pair-Progra
 | GitHub Repo | Description | Technologies | Time Frame |
 | :---------: | --------- | :---------: | --------- |
 | [WePick-2.0][8] | Continued to work with the original WePick Team to replicate and improve final project using a completely different tech stack. | Backend: Node/Express Frontend: JavaScript, React. API integration for movie and streaming details: TMDB and Utelly. Testing: Jest, Enzyme. Continuous Integration and Deployment: Netlify  | Ongoing |
-
-For a complete list, see my [GitHub repositories](https://github.com/hansa-lallu?tab=repositories).
 
 ## Skills
 

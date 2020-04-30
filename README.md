@@ -27,7 +27,7 @@ For a complete list, see my [GitHub repositories](https://github.com/hansa-lallu
 ### Side Projects
 | GitHub Repo | Description | Technologies | Time Frame |
 | :---------: | --------- | :---------: | --------- |
-| [WePick-2.0][8] | Continued to work with the original WePick Team to replicate and improve final project using a completely different tech stack. | Backend: Node/Express Frontend: JavaScript, React. API integration for movie and streaming details: TMDB and Utelly. Testing: Jest, Enzyme. Continuous Integration and Deployment: Netlify  | Ongoing |
+| [WePick-2.0][8] | Continued to work with the original WePick Team to replicate and improve final project using a completely different tech stack. | Backend: Node/Express Frontend: JavaScript, React. API integration for movie and streaming details: TMDB and Utelly. Testing: Jest, Enzyme.  | Ongoing |
 
 ## Skills
 

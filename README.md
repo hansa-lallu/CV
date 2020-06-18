@@ -9,7 +9,8 @@ After six years as a Physiotherapist, I decided it was time to take on a new cha
 
 As a recent graduate from Makers, I am currently looking for a career in London as a **full-stack developer** with an ambitious company that embraces professional development. 
 
-Tech Skills: Test Driven Development, Object Orientated Programming, Pair-Programming, Agile, XP Values, Git Workflow, Team Work
+Tech Skills: JavaScript, Jasmine, Jest, Enzyme, Node.js, Express.js, jQuery, React, Ruby on Rails, Sinatra, RSpec, Capybara, ActiveRecord, MongoDB, PostgreSQL, Travis CI, Circle CI, Heroku, Code Climate, HTML, CSS, Bootstrap.
+Test Driven Development, Object Orientated Programming, Pair-Programming, Agile, XP Values, Git Workflow, Team Work.
 
 ## Projects
 

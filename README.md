@@ -28,7 +28,9 @@ For a complete list, see my [GitHub repositories](https://github.com/hansa-lallu
 ### Side Projects
 | GitHub Repo | Description | Technologies | Time Frame |
 | :---------: | --------- | :---------: | --------- |
+| [My-Portfolio][10] | A place to display projects whilst learning React | React, CSS, Bootstrap, Netlify | 2 days / Ongoing improvements |
 | [WePick-2.0][8] | Continued to work with the original WePick Team to replicate and improve final project using a completely different tech stack. | Backend: Node/Express/MongoDB Frontend: JavaScript, React. API integration for movie and streaming details: TMDB and Utelly. Testing: Jest, Enzyme, Mocha, Chai.  | Ongoing |
+
 
 ## Skills
 
@@ -146,3 +148,4 @@ A highly intensive 16-week software engineering bootcamp, focusing on:
 [7]: https://github.com/DavidStewartLDN/fireworksBnB
 [8]: https://github.com/jlblumberg/wepick-2
 [9]: https://github.com/hansa-lallu/thermostat-js
+[10]: https://hansa.netlify.app

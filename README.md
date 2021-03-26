@@ -9,7 +9,7 @@ After six years as a Physiotherapist, I decided it was time to take on a new cha
 
 As a recent graduate from Makers, I am currently looking for a career in London as a **full-stack developer** with an ambitious company that embraces professional development. 
 
-Tech Skills: JavaScript, Jasmine, Jest, Enzyme, Node.js, Express.js, jQuery, React, Ruby on Rails, Sinatra, RSpec, Capybara, ActiveRecord, MongoDB, PostgreSQL, Travis CI, Circle CI, Heroku, Code Climate, HTML, CSS, Bootstrap.  
+Tech Skills: Ruby on Rails, RSpec, JavaScript, Jasmine, Jest, Enzyme, Node.js, Express.js, jQuery, React, Sinatra,  Capybara, ActiveRecord, MongoDB, PostgreSQL, Travis CI, Circle CI, Semaphore CI, Heroku, AWS, Code Climate, HTML, CSS, Bootstrap, Rollbar, Sidekiq
 Test Driven Development, Object Orientated Programming, Pair-Programming, Agile, XP Values, Git Workflow, Team Work.
 
 ## Projects
@@ -70,6 +70,11 @@ A highly intensive 16-week software engineering bootcamp, focusing on:
 - Research Project: Rectus abdominis diastasis during pregnancy and the postpartum period
 
 ## **Work Experience**
+
+**Smart Pension, London, UK** (July 2020 - Present) 
+*Technical Support Engineer/Trainee Ruby Dev*
+  - 1st Line Support Engineer (service requests, investigations, bug fixes)
+  - Platform monitoring with the use of Rollbar and Sidekiq
 
 **Makers, London, UK** (December 2019 - April 2020)
 

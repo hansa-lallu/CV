@@ -5,11 +5,9 @@
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Work-Experience](#work-Experience) | [Hobbies](#hobbies) | <a href="https://www.linkedin.com/in/hansa-lallu">LinkedIn</a>
 </div>
 
-After six years as a Physiotherapist, I decided it was time to take on a new challenge and pursue a career in the tech industry. The freedom in the ability to solve problems was what drove me to code - there are only so many ways you can prescribe an exercise. 
+After six years as a Physiotherapist, I decided it was time to take on a new challenge and pursue a career in the tech industry. The freedom in the ability to solve problems was what drove me to code - there are only so many ways you can prescribe an exercise. Currently working as a Technical Support Engineer/Trainee Ruby Developer.
 
-As a recent graduate from Makers, I am currently looking for a career in London as a **full-stack developer** with an ambitious company that embraces professional development. 
-
-Tech Skills: Ruby on Rails, RSpec, JavaScript, Jasmine, Jest, Enzyme, Node.js, Express.js, jQuery, React, Sinatra,  Capybara, ActiveRecord, MongoDB, PostgreSQL, Travis CI, Circle CI, Semaphore CI, Heroku, AWS, Code Climate, HTML, CSS, Bootstrap, Rollbar, Sidekiq
+Tech Skills: Ruby on Rails, RSpec, JavaScript, Jasmine, Jest, Enzyme, Node.js, React, Sinatra,  Capybara, ActiveRecord, MongoDB, PostgreSQL, Travis CI, Circle CI, Semaphore CI, Heroku, AWS, Code Climate, HTML, CSS, Bootstrap, Rollbar, Sidekiq
 Test Driven Development, Object Orientated Programming, Pair-Programming, Agile, XP Values, Git Workflow, Team Work.
 
 ## Projects
@@ -67,14 +65,20 @@ A highly intensive 16-week software engineering bootcamp, focusing on:
 #### Auckland University of Technology, New Zealand (March 2009 - December 2013)
 
 - Bachelor of Health Science (Physiotherapy)
-- Research Project: Rectus abdominis diastasis during pregnancy and the postpartum period
 
 ## **Work Experience**
 
 **Smart Pension, London, UK** (July 2020 - Present) 
 *Technical Support Engineer/Trainee Ruby Dev*
-  - 1st Line Support Engineer (service requests, investigations, bug fixes)
-  - Platform monitoring with the use of Rollbar and Sidekiq
+  - As a new branch of the engineering team, our team of five set out to provide a solid and stable solution to allow the platform to scale rapidly whilst minimising downtime.
+  - Learnt several existing monitoring tools such as Rollbar and Sidekiq that had been integrated and wrote documentation on how to utilise the tool effectively.
+  - Led daily standups which include prioritising and delegating incoming service requests/issues from the customer or internal.
+  - Built out well-tested solutions to modify various data in production.
+  - To gain a deeper understanding of the platform reached out to colleagues working on other parts of the platform to pair program and resolve bugs.
+  - As the team grew I was involved with onboarding and interviews of new joiners.
+  - Documented processes and case studies which is integral to new joiners.
+  - Conducted multiple presentations on fixes and exploration of different features of the platform.
+  - Engage with code reviews with open/respectful communication.
 
 **Makers, London, UK** (December 2019 - April 2020)
 
@@ -111,32 +115,6 @@ A highly intensive 16-week software engineering bootcamp, focusing on:
      including hydrotherapy classes.
    - Liaising with insurance bodies and government health officials.
    - Mentor for new graduates.
-
-**Greenlane Hospital, Auckland, NZ** (September - October 2013)   
-*Student Physiotherapist*
-- Outpatient Cardiorespiratory.
-  - Respiratory assessments, diagnosis, and treatment.
-  - Cardiac and pulmonary rehabilitation classes including post heart and lung transplant.
-
-**Auckland City Hospital, Auckland, NZ** (July - August 2013)   
-*Student Physiotherapist*
-- Acute Neurosurgery + High Dependency Unit.
-  - Acute neurological and respiratory assessment and treatment.
-  
-**Active Physio, Auckland, NZ** (May - June 2013)   
-*Student Physiotherapist*  
-- Private Practice
-  - Musculoskeletal assessments, diagnosis, and treatment.
-  - Pre and post surgical rehab.
-  - Pink Pilates (exercise programme for women diagnosed with cancer).
-
-**Rehab Plus, Auckland, NZ** (March - May 2013)   
-*Student Physiotherapist*  
-- Neurological assessments and rehabilitation.
-
-**Courses**
-- Dry Needling Foundation Course.
-- Sportsfield Sideline Trauma Management and Strapping Course. 
 
 ## Hobbies
 
